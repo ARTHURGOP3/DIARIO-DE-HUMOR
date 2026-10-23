@@ -1,2 +1,2 @@
 # DIARIO-DE-HUMOR
-Projeto desenvolvido por: Arthur() Isabelly Adrielle() Johanathan() 
+Projeto desenvolvido por: Arthur(@ARTHURGOP3) Isabelly() Adrielle(@devdeligrapes) Johanathan(@johnathanwellper) 
