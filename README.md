@@ -112,6 +112,13 @@ Um sistema dinâmico de rastreamento de humor que permite aos usuários registra
   <br><br>
   
   <a href="https://github.com/devdeligrapes" target="_blank">
+    <img src="https://img.shields.io/badge/Adrielle_Maciel-181717?style=for-the-badge&logo=github&logoColor=white" alt="Adrielle Maciel" />
+  </a>
+  <br>
+  <em>Designer | UI/UX Designer</em>
+  <br><br>
+
+  <a href="https://github.com/evangelistaisabellygois" target="_blank">
     <img src="https://img.shields.io/badge/Isabelly_Gois-181717?style=for-the-badge&logo=github&logoColor=white" alt="Isabelly Gois" />
   </a>
   <br>
